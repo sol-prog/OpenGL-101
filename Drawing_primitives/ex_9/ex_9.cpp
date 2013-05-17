@@ -165,9 +165,6 @@ void initialize(GLuint &vao) {
 
 	GLuint shaderProgram = create_program("shaders/vert.shader", "shaders/frag.shader");
 
-	// Bind the output names from the fragment program
-	glBindFragDataLocation(shaderProgram, 0, "out_color");
-
 	// Get the location of the attributes that enters in the vertex shader
 	GLint position_attribute = glGetAttribLocation(shaderProgram, "position");
 
