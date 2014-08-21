@@ -11,7 +11,7 @@ http://solarianprogrammer.com/2013/05/17/opengl-101-textures/
 
 http://solarianprogrammer.com/2013/05/22/opengl-101-matrices-projection-view-model/
 
-You could use this programs under the terms of GPL v3, for more details see:
+You could use these programs under the terms of GPL v3, for more details see:
 
 http://www.gnu.org/copyleft/gpl.html
 
