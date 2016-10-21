@@ -15,4 +15,4 @@ You could use these programs under the terms of GPL v3, for more details see:
 
 http://www.gnu.org/copyleft/gpl.html
 
-Copyright 2013 Sol from www.solarianprogrammer.com
+Copyright 2016 Sol from www.solarianprogrammer.com
